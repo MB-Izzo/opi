@@ -4,6 +4,7 @@ project(game)
 
 set(CMAKE_CXX_STANDARD 20)
 
+option(TRACY_PROFILING "Enable Tracy profiling in release builds" OFF)
 option (FORCE_COLORED_OUTPUT "Always produce ANSI-colored output (GNU/Clang only)." TRUE)
 if (${FORCE_COLORED_OUTPUT})
     if ("${CMAKE_CXX_COMPILER_ID}" STREQUAL "GNU")

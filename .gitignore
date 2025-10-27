@@ -5,3 +5,4 @@ build_nvim/
 .cache/
 src/.cache/
 src/compile_commands.json
+tools/

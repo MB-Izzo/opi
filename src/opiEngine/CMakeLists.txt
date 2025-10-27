@@ -38,4 +38,14 @@ target_compile_definitions(opiEngine
         _SILENCE_STDEXT_ARR_ITERS_DEPRECATION_WARNING
 )
 
-target_link_libraries(opiEngine PRIVATE glfw glad glm TracyClient spdlog imgui)
+# Profiling configuration
+if(TRACY_PROFILING)
+    message(STATUS "Tracy profiling ENABLED")
+
+    target_compile_definitions(opiEngine PRIVATE TRACY_ENABLE)
+    target_link_libraries(opiEngine PRIVATE TracyClient)
+else()
+    message(STATUS "Tracy profiling DISABLED")
+endif()
+
+target_link_libraries(opiEngine PRIVATE glfw glad glm spdlog imgui)

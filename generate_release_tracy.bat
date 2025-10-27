@@ -9,7 +9,7 @@ REM set CXX=C:\Program Files\LLVM\bin\clang++.exe
 
 REM Configure CMake (generate Ninja build files)
 REM cmake -G Ninja -B build_nvim -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -Wno-dev
-cmake -G Ninja -B build_nvim -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -Wno-dev -DCMAKE_BUILD_TYPE=Debug
+cmake -G Ninja -B build_nvim -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -Wno-dev -DCMAKE_BUILD_TYPE=Release -DTRACY_PROFILING=ON
 
 IF %ERRORLEVEL% NEQ 0 (
     echo CMake configuration failed!
@@ -17,7 +17,7 @@ IF %ERRORLEVEL% NEQ 0 (
 )
 
 REM Build the project
-cmake --build build_nvim --config Debug
+cmake --build build_nvim --config Release
 
 IF %ERRORLEVEL% NEQ 0 (
     echo Build failed!
