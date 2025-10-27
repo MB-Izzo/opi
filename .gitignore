@@ -3,3 +3,4 @@ build/
 build_nvim/
 .vs/
 .cache/
+src/.cache/
