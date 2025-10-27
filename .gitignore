@@ -4,3 +4,4 @@ build_nvim/
 .vs/
 .cache/
 src/.cache/
+src/compile_commands.json
