@@ -1,14 +1,23 @@
+#pragma once
+
 #include "opiEngine/Core/AppLayer.h"
+#include "opiEngine/Renderer/Window.h"
+#include <GLFW/glfw3.h>
+#include <memory>
 
-namespace Opi {
+namespace Opi
+{
 
-class Application {
+class Application
+{
 public:
+  Application();
   void PushLayer();
   int Run();
 
 private:
-  AppLayer* m_layer;
+  AppLayer *m_layer;
+  std::unique_ptr<OpiWindow> m_window;
 };
 
 } // namespace Opi

@@ -6,8 +6,10 @@ add_subdirectory(lib)
 set(sourceFiles
     Application.cpp
     core/AppLayer.cpp
+    renderer/Window.cpp
     include/opiEngine/Application.h
     include/opiEngine/Core/AppLayer.h
+    include/opiEngine/Renderer/Window.h
 )
 
 add_library(opiEngine ${sourceFiles})

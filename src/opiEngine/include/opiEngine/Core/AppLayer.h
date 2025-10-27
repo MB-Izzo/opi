@@ -1,6 +1,10 @@
-namespace Opi {
+#pragma once
 
-class AppLayer {
+namespace Opi
+{
+
+class AppLayer
+{
   void OnStart();
   void Run();
   void OnShutdown();

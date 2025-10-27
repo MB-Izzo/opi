@@ -1,6 +1,7 @@
 #include "opiEngine/Core/AppLayer.h"
 
-namespace Opi {
+namespace Opi
+{
 
 void AppLayer::OnStart() {}
 void AppLayer::Run() {}
