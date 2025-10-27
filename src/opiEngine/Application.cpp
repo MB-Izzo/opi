@@ -1,7 +1,7 @@
 #include <glad/glad.h>
-#include <iostream>
-#include <memory>
+
 #include "opiEngine/Application.h"
+#include "opiEngine/Core/Logger.h"
 
 namespace Opi
 {
@@ -17,7 +17,13 @@ void processInput(GLFWwindow *window)
     glfwSetWindowShouldClose(window, true);
 }
 
-Application::Application() { m_window = std::make_unique<OpiWindow>(); }
+Application::Application()
+{
+  Logger::Init();
+  OPI_CORE_INFO("Launching engine");
+  m_window = std::make_unique<OpiWindow>();
+  OPI_CORE_INFO("Created window");
+}
 
 void Application::PushLayer() {}
 
@@ -25,7 +31,7 @@ int Application::Run()
 {
   if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress))
   {
-    std::cout << "Failed to initialize GLAD" << std::endl;
+    OPI_CORE_ERROR("Failed to initialize GLAD");
     return -1;
   }
 

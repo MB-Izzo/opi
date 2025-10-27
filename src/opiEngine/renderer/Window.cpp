@@ -1,5 +1,5 @@
 #include "opiEngine/Renderer/Window.h"
-#include <iostream>
+#include "opiEngine/Core/Logger.h"
 
 namespace Opi
 {
@@ -13,9 +13,10 @@ OpiWindow::OpiWindow()
 
   m_window = glfwCreateWindow(800, 600, "LearnOpenGL", NULL, NULL);
 
+  OPI_CORE_ASSERT(m_window != NULL, "Window was not created");
+
   if (m_window == NULL)
   {
-    std::cout << "Failed to create GLFW window" << std::endl;
     glfwTerminate();
     return;
   }
