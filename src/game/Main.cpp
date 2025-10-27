@@ -1,9 +1,7 @@
 #include "opiEngine/Application.h"
-#include <iostream>
 
 int main()
 {
-	bobo();
-	std::cout << bobo();
-	return 0;
+  Opi::Application app;
+  return app.Run();
 }

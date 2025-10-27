@@ -3,4 +3,5 @@
 # Author: Kehan Xue, kehan.xue (at) gmail.com
 
 Language: Cpp
-BasedOnStyle: GNU
+BasedOnStyle: LLVM
+SortIncludes: false

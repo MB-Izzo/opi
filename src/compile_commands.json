@@ -103,6 +103,12 @@
 },
 {
   "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -DGLM_FORCE_SILENT_WARNINGS -DSPDLOG_COMPILED_LIB -DTRACY_ENABLE -DTRACY_ONLY_IPV4 -IC:/Users/mathi/Documents/prog/engi/src/opiEngine/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glad-build/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glm-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/spdlog-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src/backends -I/include -isystem C:/Users/mathi/Documents/prog/engi/build_nvim/_deps/tracy-src/public -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fcolor-diagnostics -o src\\opiEngine\\CMakeFiles\\opiEngine.dir\\core\\AppLayer.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\src\\opiEngine\\core\\AppLayer.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\src\\opiEngine\\core\\AppLayer.cpp",
+  "output": "src\\opiEngine\\CMakeFiles\\opiEngine.dir\\core\\AppLayer.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
   "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\context.c",
   "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\context.c",
   "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
