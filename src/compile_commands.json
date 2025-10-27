@@ -1,0 +1,212 @@
+[
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src/backends -I/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fcolor-diagnostics -o lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\imgui.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\imgui.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\imgui.cpp",
+  "output": "lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\imgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src/backends -I/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fcolor-diagnostics -o lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\imgui_demo.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\imgui_demo.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\imgui_demo.cpp",
+  "output": "lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\imgui_demo.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src/backends -I/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fcolor-diagnostics -o lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\imgui_draw.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\imgui_draw.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\imgui_draw.cpp",
+  "output": "lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src/backends -I/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fcolor-diagnostics -o lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\imgui_widgets.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\imgui_widgets.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\imgui_widgets.cpp",
+  "output": "lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src/backends -I/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fcolor-diagnostics -o lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\imgui_tables.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\imgui_tables.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\imgui_tables.cpp",
+  "output": "lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src/backends -I/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fcolor-diagnostics -o lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\backends\\imgui_impl_opengl3.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\backends\\imgui_impl_opengl3.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\backends\\imgui_impl_opengl3.cpp",
+  "output": "lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\backends\\imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src/backends -I/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fcolor-diagnostics -o lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\backends\\imgui_impl_glfw.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\backends\\imgui_impl_glfw.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\imgui-src\\backends\\imgui_impl_glfw.cpp",
+  "output": "lib\\CMakeFiles\\imgui.dir\\__\\_deps\\imgui-src\\backends\\imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/spdlog-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c++20 -fcolor-diagnostics -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\spdlog.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\spdlog.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\spdlog.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\spdlog.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/spdlog-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c++20 -fcolor-diagnostics -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\stdout_sinks.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\stdout_sinks.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\stdout_sinks.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\stdout_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/spdlog-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c++20 -fcolor-diagnostics -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\color_sinks.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\color_sinks.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\color_sinks.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\color_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/spdlog-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c++20 -fcolor-diagnostics -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\file_sinks.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\file_sinks.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\file_sinks.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\file_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/spdlog-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c++20 -fcolor-diagnostics -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\async.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\async.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\async.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\async.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/spdlog-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c++20 -fcolor-diagnostics -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\cfg.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\cfg.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\cfg.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\cfg.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -DSPDLOG_COMPILED_LIB -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/spdlog-src/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c++20 -fcolor-diagnostics -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\fmt.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\fmt.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\spdlog-src\\src\\fmt.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\fmt.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -DTRACY_ENABLE -DTRACY_ONLY_IPV4 -isystem C:/Users/mathi/Documents/prog/engi/build_nvim/_deps/tracy-src/public -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fcolor-diagnostics -o _deps\\tracy-build\\CMakeFiles\\TracyClient.dir\\public\\TracyClient.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\tracy-src\\public\\TracyClient.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\tracy-src\\public\\TracyClient.cpp",
+  "output": "_deps\\tracy-build\\CMakeFiles\\TracyClient.dir\\public\\TracyClient.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glm-src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c++17 -fcolor-diagnostics -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-switch-default -o _deps\\glm-build\\glm\\CMakeFiles\\glm.dir\\detail\\glm.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glm-src\\glm\\detail\\glm.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glm-src\\glm\\detail\\glm.cpp",
+  "output": "_deps\\glm-build\\glm\\CMakeFiles\\glm.dir\\detail\\glm.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -DGLM_FORCE_SILENT_WARNINGS -DSPDLOG_COMPILED_LIB -DTRACY_ENABLE -DTRACY_ONLY_IPV4 -IC:/Users/mathi/Documents/prog/engi/src/opiEngine/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glad-build/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glm-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/spdlog-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src/backends -I/include -isystem C:/Users/mathi/Documents/prog/engi/build_nvim/_deps/tracy-src/public -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fcolor-diagnostics -o src\\opiEngine\\CMakeFiles\\opiEngine.dir\\Application.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\src\\opiEngine\\Application.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\src\\opiEngine\\Application.cpp",
+  "output": "src\\opiEngine\\CMakeFiles\\opiEngine.dir\\Application.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\context.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\context.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\init.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\init.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\init.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\input.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\input.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\input.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\monitor.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\monitor.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\vulkan.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\vulkan.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\window.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\window.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\window.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\win32_init.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\win32_init.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\win32_joystick.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\win32_joystick.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\win32_monitor.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\win32_monitor.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\win32_time.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\win32_time.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\win32_thread.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\win32_thread.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\win32_window.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\win32_window.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\wgl_context.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\wgl_context.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\egl_context.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\egl_context.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-build/src -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -fcolor-diagnostics -Wall -o _deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\osmesa_context.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glfw-src\\src\\osmesa_context.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\clang.exe -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glad-build/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -fcolor-diagnostics -o _deps\\glad-build\\CMakeFiles\\glad.dir\\src\\glad.c.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glad-build\\src\\glad.c",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\build_nvim\\_deps\\glad-build\\src\\glad.c",
+  "output": "_deps\\glad-build\\CMakeFiles\\glad.dir\\src\\glad.c.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -DGLM_FORCE_SILENT_WARNINGS -DSPDLOG_COMPILED_LIB -IC:/Users/mathi/Documents/prog/engi/src/game -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glad-build/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src/backends -I/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glm-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/cgltf-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/stb_image-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/spdlog-src/include -IC:/Users/mathi/Documents/prog/engi/src/opiEngine/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fcolor-diagnostics -o src\\game\\CMakeFiles\\game.dir\\Main.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\src\\game\\Main.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\src\\game\\Main.cpp",
+  "output": "src\\game\\CMakeFiles\\game.dir\\Main.cpp.obj"
+},
+{
+  "directory": "C:/Users/mathi/Documents/prog/engi/build_nvim",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\bin\\CLANG_~1.EXE -DGLM_FORCE_SILENT_WARNINGS -DSPDLOG_COMPILED_LIB -IC:/Users/mathi/Documents/prog/engi/src/game -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glad-build/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glfw-src/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/imgui-src/backends -I/include -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/glm-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/cgltf-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/stb_image-src -IC:/Users/mathi/Documents/prog/engi/build_nvim/_deps/spdlog-src/include -IC:/Users/mathi/Documents/prog/engi/src/opiEngine/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fcolor-diagnostics -o src\\game\\CMakeFiles\\game.dir\\GameLol\\MonFichier.cpp.obj -c C:\\Users\\mathi\\Documents\\prog\\engi\\src\\game\\GameLol\\MonFichier.cpp",
+  "file": "C:\\Users\\mathi\\Documents\\prog\\engi\\src\\game\\GameLol\\MonFichier.cpp",
+  "output": "src\\game\\CMakeFiles\\game.dir\\GameLol\\MonFichier.cpp.obj"
+}
+]

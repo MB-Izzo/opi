@@ -1,0 +1,2 @@
+cmake -G Ninja -B build_nvim -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+cmake --build build_nvim
