@@ -3,7 +3,6 @@
 #include "opiEngine/Core/AppLayer.h"
 #include "opiEngine/Renderer/Window.h"
 #include <GLFW/glfw3.h>
-#include <memory>
 
 namespace Opi
 {
