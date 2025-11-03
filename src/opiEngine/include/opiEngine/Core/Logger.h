@@ -23,8 +23,9 @@ private:
 #define OPI_CORE_INFO(...) ::Opi::Logger::GetCoreLogger()->info(__VA_ARGS__)
 #define OPI_CORE_WARN(...) ::Opi::Logger::GetCoreLogger()->warn(__VA_ARGS__)
 #define OPI_CORE_ERROR(...) ::Opi::Logger::GetCoreLogger()->error(__VA_ARGS__)
-#define OPI_CORE_ASSERT(x, ...) \
-    if(!(x)) { \
-        OPI_CORE_ERROR("Assertion Failed: {} | " __VA_ARGS__, #x); \
-        std::abort(); \
-    }
+#define OPI_CORE_ASSERT(x, ...)                                                \
+  if (!(x))                                                                    \
+  {                                                                            \
+    OPI_CORE_ERROR("Assertion Failed: {} | " __VA_ARGS__, #x);                 \
+    std::abort();                                                              \
+  }
