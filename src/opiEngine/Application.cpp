@@ -4,74 +4,73 @@
 #include "opiEngine/Core/Logger.h"
 
 #ifdef TRACY_ENABLE
-#include "tracy/Tracy.hpp" 
+#include "tracy/Tracy.hpp"
 #include "tracy/TracyOpenGL.hpp"
 #endif
 
-    namespace Opi
+namespace Opi
 {
 
-  void framebuffer_size_callback(GLFWwindow * window, int width, int height)
+void framebuffer_size_callback(GLFWwindow *window, int width, int height)
+{
+  glViewport(0, 0, width, height);
+}
+
+void processInput(GLFWwindow *window)
+{
+  if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS)
+    glfwSetWindowShouldClose(window, true);
+}
+
+Application::Application()
+{
+  Logger::Init();
+  OPI_CORE_INFO("Launching engine");
+  m_window = std::make_unique<OpiWindow>();
+  OPI_CORE_INFO("Created window");
+}
+
+void Application::PushLayer() {}
+
+int Application::Run()
+{
+  if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress))
   {
-    glViewport(0, 0, width, height);
+    OPI_CORE_ERROR("Failed to initialize GLAD");
+    return -1;
   }
-
-  void processInput(GLFWwindow * window)
-  {
-    if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS)
-      glfwSetWindowShouldClose(window, true);
-  }
-
-  Application::Application()
-  {
-    Logger::Init();
-    OPI_CORE_INFO("Launching engine");
-    m_window = std::make_unique<OpiWindow>();
-    OPI_CORE_INFO("Created window");
-  }
-
-  void Application::PushLayer() {}
-
-  int Application::Run()
-  {
-    if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress))
-    {
-      OPI_CORE_ERROR("Failed to initialize GLAD");
-      return -1;
-    }
 #ifdef TRACY_ENABLE
-    TracyGpuContext;
+  TracyGpuContext;
 #endif
 
-    glViewport(0, 0, 800, 600);
-    glfwSetFramebufferSizeCallback(m_window->GetGLFWWindow(),
-                                   framebuffer_size_callback);
+  glViewport(0, 0, 800, 600);
+  glfwSetFramebufferSizeCallback(m_window->GetGLFWWindow(),
+                                 framebuffer_size_callback);
 
-    while (!glfwWindowShouldClose(m_window->GetGLFWWindow()))
-    {
+  while (!glfwWindowShouldClose(m_window->GetGLFWWindow()))
+  {
 #ifdef TRACY_ENABLE
-      ZoneScoped;
-      TracyGpuZone("Frame");
+    ZoneScoped;
+    TracyGpuZone("Frame");
 #endif
 
-      processInput(m_window->GetGLFWWindow());
+    processInput(m_window->GetGLFWWindow());
 
-      // Rendering commands here
+    // Rendering commands here
 
-      glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
-      glClear(GL_COLOR_BUFFER_BIT);
+    glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
+    glClear(GL_COLOR_BUFFER_BIT);
 
-      glfwSwapBuffers(m_window->GetGLFWWindow());
-      glfwPollEvents();
+    glfwSwapBuffers(m_window->GetGLFWWindow());
+    glfwPollEvents();
 
 #ifdef TRACY_ENABLE
-      FrameMark;
-      TracyGpuCollect;
+    FrameMark;
+    TracyGpuCollect;
 #endif
-    }
-
-    glfwTerminate();
-    return 0;
   }
 
+  glfwTerminate();
+  return 0;
+}
 } // namespace Opi
