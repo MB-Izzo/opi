@@ -16,6 +16,6 @@
 
 # Low level systems
 
-* Handle manager ? [see this blog post](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+* Handle manager ? [see this blog post](https://floooh.github.io/2018/06/17/handles-vs-pointers.html) and [this one](https://giordi91.github.io/post/resourcesystem/)
 * Serialization binary custom (+streams)
 * Lua scripting?
