@@ -1,7 +1,7 @@
 @echo off
 
 REM Build the project
-cmake --build build_nvim --config Debug
+cmake --build build_nvim --config Release
 
 IF %ERRORLEVEL% NEQ 0 (
     echo Build failed!
