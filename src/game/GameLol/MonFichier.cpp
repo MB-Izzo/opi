@@ -1,7 +1,3 @@
 #include "MonFichier.h"
 
-void
-MaClass::Blabla ()
-{
-  return;
-}
+void MaClass::Blabla() { return; }

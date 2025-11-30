@@ -9,14 +9,14 @@ namespace Opi
 
 class Application
 {
-public:
-  Application();
-  void PushLayer();
-  int Run();
+  public:
+    Application();
+    void PushLayer();
+    int Run();
 
-private:
-  AppLayer *m_layer;
-  std::unique_ptr<OpiWindow> m_window;
+  private:
+    AppLayer *m_layer;
+    std::unique_ptr<OpiWindow> m_window;
 };
 
 } // namespace Opi

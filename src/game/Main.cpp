@@ -2,6 +2,6 @@
 
 int main()
 {
-  Opi::Application app;
-  return app.Run();
+    Opi::Application app;
+    return app.Run();
 }

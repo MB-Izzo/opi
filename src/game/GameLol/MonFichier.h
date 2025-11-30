@@ -1,5 +1,5 @@
 class MaClass
 {
-public:
-  void Blabla ();
+  public:
+    void Blabla();
 };

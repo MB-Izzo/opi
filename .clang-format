@@ -6,3 +6,4 @@ Language: Cpp
 BasedOnStyle: LLVM
 SortIncludes: false
 BreakBeforeBraces: Allman
+IndentWidth: '4'

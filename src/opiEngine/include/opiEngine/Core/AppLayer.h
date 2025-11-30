@@ -5,9 +5,9 @@ namespace Opi
 
 class AppLayer
 {
-  void OnStart();
-  void Run();
-  void OnShutdown();
+    void OnStart();
+    void Run();
+    void OnShutdown();
 };
 
 } // namespace Opi

@@ -6,14 +6,14 @@ namespace Opi
 
 class OpiWindow
 {
-public:
-  OpiWindow();
+  public:
+    OpiWindow();
 
-public:
-  GLFWwindow *const GetGLFWWindow() const { return m_window; }
+  public:
+    GLFWwindow *const GetGLFWWindow() const { return m_window; }
 
-private:
-  GLFWwindow *m_window;
+  private:
+    GLFWwindow *m_window;
 };
 
 } // namespace Opi

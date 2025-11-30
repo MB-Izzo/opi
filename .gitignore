@@ -1,5 +1,6 @@
 out/
 build/
+build_vs/
 build_nvim/
 .vs/
 .cache/
